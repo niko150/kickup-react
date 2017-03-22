@@ -22,7 +22,7 @@
     "postcss-loader": "^1.2.1",
     "rucksack-css": "^0.9.1",
     "style-loader": "^0.13.0",
-    "webpack": "^1.12.14",
+    "webpack": "^2.3.1",
     "webpack-dev-server": "^1.14.1",
     "webpack-hot-middleware": "^2.7.1",
     "babel-runtime": "^6.5.0",
